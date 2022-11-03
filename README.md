@@ -25,7 +25,7 @@
  
 </p>
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/naufalmstp"><img align="left" width="150" height="150" src=""></a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/naufalmstp"><img align="left"></a>
 - My Instagram of symphony [Justnono] <a href="(https://www.instagram.com/royalsffal/)">Instagram</a> 🌁
 <!-- - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 -->
