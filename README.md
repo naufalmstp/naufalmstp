@@ -1,5 +1,5 @@
-# Hi there 👋 , Nono heree!
-Currently i'm learning about many things
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, Nono is heree!</h1>
+<h3 align="center">I'm still learning about anything</h3>
 
 ### Tools:
 <p>
