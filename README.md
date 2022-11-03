@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, Nono is heree!</h1>
 <h3 align="center">I'm still learning about anything</h3>
 
-### 😼 some of the tools I use when learning:
+### 😼 Some of the Languages and Tools I use when learning:
 <p>
 <!--     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
