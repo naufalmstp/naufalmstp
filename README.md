@@ -25,9 +25,7 @@
  
 </p>
 
-[Shiblob](emoji/shiblob/README.md)
-
-## Find me around the universe 🌎: <a href="https://github.com/sponsors/naufalmstp"><img align="left" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-nerd.png"> </a> ![shiblob-nerd](emoji/shiblob/shiblob-nerd.png)
+## Find me around the universe 🌎: <a href="https://github.com/sponsors/naufalmstp"><img align="left" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/shiblob/shiblob-nerd.png"> </a>
 - My Instagram of symphony the [milky way's guardian](https://www.instagram.com/royalsffal/)</a> 🌌
 <!-- - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 -->
