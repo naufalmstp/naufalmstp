@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, Nono is heree!</h1>
 <h3 align="center">I'm still learning about anything, so pardon me if i make some mistakes</h3>
 
-### Some of the Languages and Tools I use when learning <img src="assets/gifs/star.gif" width="30px">:
+### Some of the Languages and Tools I use when learning 🎒:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
