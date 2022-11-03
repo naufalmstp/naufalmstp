@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, Nono is heree!</h1>
 <h3 align="center">I'm still learning about anything</h3>
 
-### Some of the Languages and Tools I use when learning 😼:
+### Some of the Languages and Tools I use when learning 🎒:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -26,7 +26,7 @@
 </p>
 
 ## Find me around the universe 🌎: <a href="https://github.com/sponsors/naufalmstp"><img align="left"></a>
-- My Instagram of symphony the [milky way's guardian](https://www.instagram.com/royalsffal/)</a> 🌁
+- My Instagram of symphony the [milky way's guardian](https://www.instagram.com/royalsffal/)</a> 🌌
 <!-- - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 -->
 
