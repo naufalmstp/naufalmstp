@@ -4,7 +4,7 @@
 
 ### Some of Languages and Tools I use when learning 🎒:
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin) <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
