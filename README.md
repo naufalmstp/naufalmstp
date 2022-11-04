@@ -23,6 +23,10 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
  
 </p>
 
